@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatConverter", "FloatConverter\FloatConverter.csproj", "{9BE097FB-586B-44AC-B028-47CDE7850F29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polynomial", "Polynomial\Polynomial.csproj", "{DD204930-B531-40F9-8B6F-6C66FC4E14A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatConverterTests", "FloatConverterTests\FloatConverterTests.csproj", "{EB327025-C723-4714-ACFC-AE100A6AA0EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolynomialTests", "PolynomialTests\PolynomialTests.csproj", "{2CAA8D52-2ED6-4C53-B886-6AD1706DF07A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BE097FB-586B-44AC-B028-47CDE7850F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE097FB-586B-44AC-B028-47CDE7850F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE097FB-586B-44AC-B028-47CDE7850F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE097FB-586B-44AC-B028-47CDE7850F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD204930-B531-40F9-8B6F-6C66FC4E14A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD204930-B531-40F9-8B6F-6C66FC4E14A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD204930-B531-40F9-8B6F-6C66FC4E14A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD204930-B531-40F9-8B6F-6C66FC4E14A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB327025-C723-4714-ACFC-AE100A6AA0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB327025-C723-4714-ACFC-AE100A6AA0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB327025-C723-4714-ACFC-AE100A6AA0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB327025-C723-4714-ACFC-AE100A6AA0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CAA8D52-2ED6-4C53-B886-6AD1706DF07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAA8D52-2ED6-4C53-B886-6AD1706DF07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAA8D52-2ED6-4C53-B886-6AD1706DF07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAA8D52-2ED6-4C53-B886-6AD1706DF07A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
