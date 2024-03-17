@@ -3,10 +3,10 @@ using Polynomial;
 
 namespace PolynomialTests
 {
-    public class Tests
+    public class PolynomialTests
     {
         [TestCase(new int[] { 3, 14, 45 }, new int[] { 3, 14, 45 }, ExpectedResult = true)]
-        [TestCase(new int[] { 0, 10, 0 }, new int[] { 0, 11, 0 }, ExpectedResult = false)]
+        [TestCase(new int[] { 1, 10, 1 }, new int[] { 1, 11, 1 }, ExpectedResult = false)]
         [TestCase(new int[] { 1, 3, 5, 7 }, new int[] { 1, 2, 4, 4, 5 }, ExpectedResult = false)]
         public Boolean Test_Polinomials_Equals(int[] a, int[] b)
         {

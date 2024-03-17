@@ -3,7 +3,7 @@ using FloatConverter;
 
 namespace FloatConverterTests
 {
-    public class Tests
+    public class ConverterTests
     {
         [TestCase(4.55f, "01000000100100011001100110011010")]
         [TestCase(-111.11f, "11000010110111100011100001010010")]

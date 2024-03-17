@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatConverterTests", "Floa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolynomialTests", "PolynomialTests\PolynomialTests.csproj", "{2CAA8D52-2ED6-4C53-B886-6AD1706DF07A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiFileAssembly", "MultiFileAssembly\MultiFileAssembly.csproj", "{FE086909-7CF0-4F15-9E49-414F5A112100}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{2CAA8D52-2ED6-4C53-B886-6AD1706DF07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CAA8D52-2ED6-4C53-B886-6AD1706DF07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CAA8D52-2ED6-4C53-B886-6AD1706DF07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE086909-7CF0-4F15-9E49-414F5A112100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE086909-7CF0-4F15-9E49-414F5A112100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE086909-7CF0-4F15-9E49-414F5A112100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE086909-7CF0-4F15-9E49-414F5A112100}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

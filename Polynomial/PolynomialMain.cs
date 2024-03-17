@@ -1,8 +1,8 @@
 namespace Polynomial
 {
-    internal class PolynomialMain
+    public class PolynomialMain
     {
-        internal static void Main(string[] args)
+        public static void Main(string[] args)
         {
             var firstPolinomial = new Polynom(new int[] { 3, 6, 9, 12 });
             var secPolynomial = new Polynom(new int[] { 3, 6, 9, 12 });
